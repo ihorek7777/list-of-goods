@@ -1,0 +1,49 @@
+.app {
+	margin: auto;
+	text-align: center;
+	width: 300px;
+}
+
+
+
+.search-bar {
+	margin-top: 5px;
+	background-color: #bbb;
+	border-radius: 5px;
+	border-bottom-right-radius: 0px;
+	border-bottom-left-radius: 0px;
+	border: 1.5px solid #aaa;
+}
+.search-bar__input {
+	width: 90%;
+	height: 25px;
+	margin: 5px;
+}
+.search-bar__check {
+	margin: 5px;
+}
+
+.product-table {
+	background-color: #eee;
+	border-radius: 5px;
+	border-top-left-radius: 0px;
+	border-top-right-radius: 0px;
+	border: 1.5px solid #aaa;
+	border-top: 0px;
+}
+.product-table__head {
+	font-size: 1.5em;
+}
+.product-table__item {
+	margin: 5px;
+}
+
+
+.category__head {
+	font-size: 1.2em;
+}
+
+
+.product-table__item_red {
+	color: red;
+}
